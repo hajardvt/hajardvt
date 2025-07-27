@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- README.md for GitHub profile: hajardvt -->
 
-<!--
-**hajardvt/hajardvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I'm Hajar Halim</h1>
+<h3 align="center"> UI/UX Designer | Full-Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/hajar-halim-10933a249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hajardvt&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 💡 Passionate about building clean, user-centric digital products  
+- 🛠️ Full-stack developer with a strong eye for UI/UX  
+- 📍 Based in Tangier, Morocco 🇲🇦  
+- 🌱 Currently learning `React`, `Django`, `Machine Learning`.
+- 🎯 Career goal: Lead impactful tech projects for real-world problems
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,django,python,js,figma,html,css,bootstrap,postgres,git,github" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| 🏠 **** |  |  | [GitHub](#) |
+| 🍲 **** |  |  | [Case Study](#) |
+| ✅ **** |  |  | [GitHub](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hajardvt&show_icons=true&theme=tokyonight&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajardvt&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💌 **@gmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hajar-halim-10933a249/)  
+- ✨ Open to collaborations, remote internships, and freelance work!
+
+---
+
+<p align="center">
+  Made with 💻 by Hajar Halim • Inspired by real-world challenges • Powered by curiosity
+</p>
