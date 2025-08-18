@@ -20,7 +20,7 @@
 - 💡 Passionate about building clean, user-centric digital products  
 - 🛠️ Full-stack developer with a strong eye for UI/UX  
 - 📍 Based in Tangier, Morocco 🇲🇦  
-- 🌱 Currently learning `React`, `Django`, `Machine Learning`.
+- 🌱 Currently learning ``, ``, ``.
 - 🎯 Career goal: Lead impactful tech projects for real-world problems
 
 ---
