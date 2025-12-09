@@ -35,25 +35,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🏠 **** |  |  | [GitHub](#) |
-| 🍲 **** |  |  | [Case Study](#) |
-| ✅ **** |  |  | [GitHub](#) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajardvt&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hajardvt&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let’s Connect
 
