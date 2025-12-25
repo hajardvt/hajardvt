@@ -19,8 +19,6 @@
 
 - 💡 Passionate about building clean, user-centric digital products  
 - 🛠️ Full-stack developer with a strong eye for UI/UX  
-- 📍 Based in Tangier, Morocco 🇲🇦  
-- 🌱 Currently learning ``, ``, ``.
 - 🎯 Career goal: Lead impactful tech projects for real-world problems
 
 ---
@@ -38,9 +36,6 @@
 
 
 ## 🤝 Let’s Connect
-
-- 💌 **@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hajar-halim-10933a249/)  
 - ✨ Open to collaborations, remote internships, and freelance work!
 
 ---
