@@ -3,16 +3,6 @@
 <h1 align="center">Hi there 👋 I'm Hajar Halim</h1>
 <h3 align="center"> UI/UX Designer | Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hajar-halim-10933a249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hajardvt&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
