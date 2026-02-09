@@ -1,7 +1,7 @@
 <!-- README.md for GitHub profile: hajardvt -->
 
-<h1 align="center">Hi there 👋 I'm Hajar Halim</h1>
-<h3 align="center"> UI/UX Designer | Full-Stack Developer</h3>
+<h1 align="center">Hi there 👋 I'm Hajar</h1>
+<h3 align="center"> Full-Stack Developer</h3>
 
 ---
 
@@ -9,7 +9,6 @@
 
 - 💡 Passionate about building clean, user-centric digital products  
 - 🛠️ Full-stack developer with a strong eye for UI/UX  
-- 🎯 Career goal: Lead impactful tech projects for real-world problems
 
 ---
 
