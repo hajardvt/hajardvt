@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-  Made with 💻 by Hajar Halim • Inspired by real-world challenges • Powered by curiosity
+
 </p>
